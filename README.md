@@ -31,7 +31,7 @@ _[Manual]_
 
 * Download the [DebugKit archive](https://github.com/cakephp/debug_kit/zipball/2.2).
 * Unzip that download.
-* Rename the resulting folder to `DebugKit`
+* Rename the resulting folder to `debug_kit`
 * Then copy this folder into `app/Plugin/`
 
 _[GIT Submodule]_
